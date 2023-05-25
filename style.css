@@ -1,0 +1,85 @@
+.header{
+  display: grid;
+  grid-template-columns: 1200px 1fr 1fr 1fr;
+  margin: 0px 0px 0px 0px;
+  font-family: 'Teko', sans-serif;
+  font-size: 25px;
+  border-style: none;
+  border-bottom: solid;
+  border-bottom-color: yellow;
+}
+
+.main-info {
+  background-color:rgb(177, 181, 225);
+  margin-top: 50px;
+  margin-bottom: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 600px;
+  font-size: 50px;
+  border-style: none;
+  border-bottom: solid;
+  border-bottom-color: yellow;
+}
+
+.skills{
+  margin-top: 10px;
+  display: grid;
+  grid-template-columns: 600px 1fr 1fr 1fr;
+  height: 100px;
+  font-size: 30px;
+  border-style: none;
+  border-bottom: solid;
+  border-bottom-color: yellow;
+}
+
+.interests{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 500px;
+  font-size: 50px;
+  border-style: none;
+  border-bottom: solid;
+  border-bottom-color: yellow;
+}
+
+.name {
+  font-family: 'Lobster Two', cursive;
+  font-size: 40px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 20px;
+  color: black;
+}
+
+.skill-img{
+  height: 100px;
+}
+
+.my-skills{
+  font-family: 'Teko', sans-serif;
+  font-size: 50px;
+  padding: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 20px;
+}
+
+.my-img{
+  height: 600px;
+  float: right;
+}
+
+
+.headings{
+  font-family: 'Teko', sans-serif;
+  font-size: 50px;
+  color: rgb(165, 49, 103);
+}
+
+.text {
+  font-size: 45px;
+  color: rgb(85, 26, 139);
+  font-family: 'Archivo Narrow', sans-serif;
+}
+body {
+  background-color:rgb(177, 181, 225);
+  color: white;
+}
